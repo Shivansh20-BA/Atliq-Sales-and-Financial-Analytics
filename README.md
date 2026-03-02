@@ -15,6 +15,7 @@ Analyzes Gross Margin trends
 Highlights growth opportunities and underperforming areas
 
 📈 Sales Analysis
+
 1️⃣ Top 10 Products – Year-over-Year Growth
   Identified the top 10 products with the highest sales growth from 2020 to 2021.
   This analysis helped:
@@ -43,6 +44,7 @@ This report provided visibility into which business segments contributed most to
   This report supported geographic performance analysis and market prioritization.
 
 💰 Financial Analysis
+
 1️⃣ Customer Net Sales Performance
   Analyzed customer-level revenue trends over multiple years.
   Observed consistent revenue growth, particularly strong performance in 2021.
