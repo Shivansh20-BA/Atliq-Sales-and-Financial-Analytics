@@ -2,6 +2,7 @@
 A comprehensive Excel report evaluating the financial performance and sales patterns of Atliq Hardwares.
 
 🔎 Project Background
+
 AtliQ Hardware is a global manufacturer and distributor of PCs, printers, peripherals, and networking products. The company sells through large retail partners and online marketplaces across multiple countries.
 The leadership team required a structured analytical solution to replace scattered regional Excel reports. The goal was to consolidate data, analyze performance across dimensions, and generate insights that support better sales and financial decisions.
 This project focuses on transforming raw sales data into structured, insight-driven reports using Excel.
